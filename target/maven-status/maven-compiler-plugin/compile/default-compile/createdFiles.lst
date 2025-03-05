@@ -1,0 +1,5 @@
+com\notetaking\notes\repository\NoteRepository.class
+com\notetaking\notes\model\Note.class
+com\notetaking\notes\NotesApplication.class
+com\notetaking\notes\service\NoteService.class
+com\notetaking\notes\controller\NoteController.class
